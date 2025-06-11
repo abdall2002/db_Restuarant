@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "5132",
+      "email": "abdallah@test.com",
+      "password": "alialiali",
+      "name": "abdallah"
+    },
+    {
+      "id": "4e40",
+      "email": "ali@test.com",
+      "password": "123456",
+      "name": "ali"
+    },
+    {
+      "id": "3007",
+      "name": "Ahmed",
+      "email": "Ahmed@test.com",
+      "password": "Ahmed@123"
+    },
+    {
+      "id": "053c",
+      "email": "abdallah@test.com",
+      "password": "123456",
+      "name": "abdallah"
+    },
+    {
+      "id": "363e",
+      "email": "",
+      "password": "",
+      "name": ""
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "1",
+      "name": "Burger King",
+      "contact": 11111,
+      "address": "Noida sector 50"
+    },
+    {
+      "name": "Burger Strips Double",
+      "contact": 22222,
+      "address": "Noida sector 80",
+      "id": "2"
+    },
+    {
+      "id": "4b91",
+      "name": "Strips Double",
+      "contact": "66666",
+      "address": "street 15"
+    },
+    {
+      "id": "28ca",
+      "name": "starbucks",
+      "contact": "88888",
+      "address": "street 45"
+    }
+  ]
+}
